@@ -1,0 +1,38 @@
+
+* {
+
+    font-family: Arial, sans-serif;
+  }
+body {
+    background-color: #ccacd5;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+    text-align: center;
+  }
+  
+  li {
+    background-color: #fff;
+    padding: 20px;
+    border-bottom: 1px solid #ccacd5 ;
+    list-style-type: none;
+    display: inline-block;
+  }
+  
+ li a {
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+ li a:active {
+    background-color: rgb(150, 150, 150);
+  }
+#stylesheet {
+    display: inline;
+    text-shadow: 1px 1px #ccacd5;
+    margin: 0 660px;
+    
+}

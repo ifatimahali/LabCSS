@@ -1,0 +1,28 @@
+*{
+background-color: rgb(204, 169, 237);
+}
+a{
+    color:rgb(255, 255, 255) ;
+}
+ul{
+    list-style: none;
+    background-color: aliceblue;
+    width: 100%;
+}
+li{
+    font-size: large;
+    display: inline;
+    align-content: center;
+    margin: 0 180px;
+    background-color: aliceblue;
+    color:rgb(133, 133, 235);
+}
+a::after{
+    background-color: blueviolet;
+}
+p{
+    font-size: large;
+}
+#paa{
+    background-color: whitesmoke;
+}
